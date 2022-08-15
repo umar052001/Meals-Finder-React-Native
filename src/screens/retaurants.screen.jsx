@@ -1,7 +1,7 @@
 import React from "react";
 import { StatusBar, StyleSheet, Text, SafeAreaView, View } from "react-native";
 import { Searchbar } from "react-native-paper";
-import RestaurantInfoCard from "../components/restaurant-info-card.component";
+import RestaurantInfoCard from "../features/restaurants/components/restaurant-info-card.component";
 
 const RestaurantsScreen = () => {
   return (
